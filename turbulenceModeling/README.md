@@ -2,5 +2,5 @@
 rans channel
 
 
-[CLICK HERE TO SEE THE CODE](https://nbviewer.jupyter.org/github/Fluid-Dynamics-Of-Energy-Systems-Team/MTHS/blob/master/main.ipynb)
+[CLICK HERE TO SEE THE CODE](https://nbviewer.jupyter.org/github/Fluid-Dynamics-Of-Energy-Systems-Team/MTHS/blob/master/turbulenceModeling/main.ipynb)
 
